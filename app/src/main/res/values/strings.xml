@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="title_books">Books</string>
+    <string name="title_synopsis">Synopsis</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="synopsis_fragment">synopsis fragment</string>
+    <string name="notifications_fragment">notifications fragment</string>
+    <string name="books_fragment">Books fragment</string>
+
+    <string name="titulo1">Morir no es lo que mas duele</string>
+
+    <string name="autor1">Ines Plana</string>
+
+
+</resources>
