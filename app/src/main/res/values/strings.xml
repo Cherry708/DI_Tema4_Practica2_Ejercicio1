@@ -8,8 +8,57 @@
     <string name="books_fragment">Books fragment</string>
 
     <string name="titulo1">Morir no es lo que mas duele</string>
-
     <string name="autor1">Ines Plana</string>
+    <string name="sinopsis1">Un hombre aparece ahorcado en un pinar a las afueras de Madrid, con
+los ojos arrancados de cuajo. En uno de sus bolsillos se halla un papel
+con el nombre y la dirección de una mujer:Sara Azcárraga, que vive a
+pocos kilómetros del escenario del crimen.</string>
 
+    <string name="titulo2">Yo, Julia</string>
+    <string name="autor2">Santiago Posteguillo</string>
+    <string name="sinopsis2">192 d.C. Varios hombres luchan por un imperio, pero Julia, hija de reyes,
+madre de césares y esposa de emperador, piensa en algo más
+ambicioso: una dinastía.</string>
+
+    <string name="titulo3">La vida en cuatro letras</string>
+    <string name="autor3">Carlos López</string>
+    <string name="sinopsis3">Partiendo de un momento extraordinariamente difícil de la vida del autor,
+este libro empieza con una pregunta fascinante: ¿llevamos la felicidad
+escrita en nuestros genes?.</string>
+
+    <string name="titulo4">Tus pasos en la
+escalera</string>
+    <string name="autor4">Antonio Muñoz Molina</string>
+    <string name="sinopsis4">Un hombre anticipa con ilusión el momento de reunirse con su esposa
+mientras ultima los preparativos de su nuevo hogar en Lisboa. Atrás
+queda una etapa de sus vidas en Nueva York marcada por el indeleble
+recuerdo del 11-S.</string>
+
+    <string name="titulo5">Cementerio de
+animales</string>
+    <string name="autor5">Stephen King</string>
+    <string name="sinopsis5">Church estaba allí otra vez, como Louis Creed temía y deseaba. Porque
+su hijita Ellie le había encomendado que cuidara del gato, y Church
+había muerto atropellado. Louis lo había comprobado: el gato estaba
+muerto, incluso lo había enterrado más allá del cementerio de animales.</string>
+
+    <string name="titulo6">Sidi</string>
+    <string name="autor6">Arturo Pérez Reverte</string>
+    <string name="sinopsis6">En él se funden de un modo fascinante la aventura, la historia y la
+leyenda. Hay muchos Cid en la tradición española, y éste es el mío.</string>
+
+    <string name="titulo7">Una jaula de oro</string>
+    <string name="autor7">Camilla Lackberg</string>
+    <string name="sinopsis7">Faye, con un oscuro pasado, ha conseguido todolo que siempre había
+soñado, un marido atractivo, una hija a la que quiere y, sobre todo,
+estatus social y una vida llena de lujo. Pero cuando, de un día para otro,
+esta vida perfecta se va al traste, surge una nueva mujer intrépida y
+vengadora.</string>
+
+    <string name="titulo8">Lo mejor de ir es volver</string>
+    <string name="autor8">Albert Espinosa</string>
+    <string name="sinopsis8">Bella historia sobre los recuerdos, el perdón y el amor que transcurre el
+23 de abril, el día del libro y las rosas, entre la ciudad de Barcelona y las
+islas de Ischia y Menorca.</string>
 
 </resources>

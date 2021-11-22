@@ -12,7 +12,7 @@
         tools:layout="@layout/fragment_books" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_synopsis"
         android:name="com.example.di_tema4_practica2_ejercicio1.ui.synopsis.SynopsisFragment"
         android:label="@string/title_synopsis"
         tools:layout="@layout/fragment_synopsis" />

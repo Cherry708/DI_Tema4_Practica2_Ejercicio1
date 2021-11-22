@@ -33,7 +33,50 @@ class BooksFragment : Fragment() {
         val root: View = binding.root
 
         val listaBooks = ArrayList<ItemBooks>()
-        listaBooks.add(ItemBooks(R.string.autor1, R.string.titulo1, "22", R.drawable.imagen1))
+        listaBooks.
+        add(
+            ItemBooks(
+                R.string.autor1, R.string.titulo1, "22€",
+                R.drawable.book1, R.string.sinopsis1
+            )
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor2, R.string.titulo2, "17€",
+                R.drawable.book2, R.string.sinopsis2)
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor3, R.string.titulo3, "19€",
+                R.drawable.book3, R.string.sinopsis3)
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor4, R.string.titulo4, "14€",
+                R.drawable.book4, R.string.sinopsis4)
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor5, R.string.titulo5, "17€",
+                R.drawable.book5, R.string.sinopsis5)
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor6, R.string.titulo6, "20",
+                R.drawable.book6, R.string.sinopsis6)
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor7, R.string.titulo7, "19€",
+                R.drawable.book7, R.string.sinopsis7)
+        )
+        listaBooks.add(
+            ItemBooks(
+                R.string.autor8, R.string.titulo8, "14€",
+                R.drawable.book8, R.string.sinopsis8)
+        )
+
+
 
 
         val recView = binding.recView
